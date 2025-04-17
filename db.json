@@ -7,5 +7,15 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "solutions": [
+    {
+        title: "Бот обратной связи",
+        description: "Готовое решение для поддержки состоящей из нескольких операторов",
+        image: "https://via.placeholder.com/400x200?text=Бот+обратной+связи",
+        features: ["Утилиты"],
+        price: "3 000 ₽",
+        tags: ["обратная связь"]
+    },
+  ]
 }
